@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bluepen.syncdojo.jira.domain", "bluepen.syncdojo.jira.domain\bluepen.syncdojo.jira.domain.csproj", "{C5C2B5EF-D060-43FB-9E4C-D7A4C17CB5BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bluepen.syncdojo.jira.units", "bluepen.syncdojo.jira.units\bluepen.syncdojo.jira.units.csproj", "{F5A80108-2E9E-4BA0-82F5-F022A6F73A4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C5C2B5EF-D060-43FB-9E4C-D7A4C17CB5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5C2B5EF-D060-43FB-9E4C-D7A4C17CB5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5C2B5EF-D060-43FB-9E4C-D7A4C17CB5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A80108-2E9E-4BA0-82F5-F022A6F73A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A80108-2E9E-4BA0-82F5-F022A6F73A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A80108-2E9E-4BA0-82F5-F022A6F73A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A80108-2E9E-4BA0-82F5-F022A6F73A4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
